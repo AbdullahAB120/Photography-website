@@ -1,0 +1,48 @@
+header {
+  padding: 10px 0;
+}
+
+header .logo {
+  text-align: center;
+}
+
+header .menu ul {
+  text-align: center;
+}
+
+header .menu ul li {
+  margin: 2px;
+}
+
+header .menu ul li a {
+  font-size: 12px;
+  padding: 4px 7px;
+}
+
+.intro {
+  padding: 30px 20px;
+}
+
+.intro .intro-details h1 {
+  font-size: 60px;
+}
+
+.intro .intro-image {
+  padding: 50px 0;
+}
+
+.intro .intro-image img {
+  width: 100%;
+}
+
+.about, .service, .album, .feedback, .contact {
+  padding: 50px 20px;
+}
+
+.about .about-details p {
+  padding: 30px 10px;
+}
+
+.contact .contact-information {
+  padding: 0 20px;
+}
