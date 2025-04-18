@@ -1,0 +1,64 @@
+header {
+	padding: 10px 0;
+	
+	.logo {
+		text-align: center;
+	}
+	
+	.menu {
+		ul {
+			text-align: center;
+			li {
+				margin: 2px;
+				a { 
+					font-size: 12px;
+					padding: 5px;
+				}
+			}
+		}
+	}
+}
+
+
+.intro {
+	height: 80vh;
+	padding: 30px 20px;
+	
+	.intro-details {
+		padding: 0;
+		h1 {
+			font-size: 60px;
+		}
+	}
+	
+	.intro-image {
+		padding: 30px;
+		img {
+			width: 100%;
+		}
+	}
+}
+
+
+.about, .service, .album, .feedback, .contact {
+	padding: 50px 20px;
+}
+
+
+.about {
+	.about-details {
+		p {
+			padding: 30px 10px;
+		}
+	}
+}
+
+
+.contact {
+	.contact-information {
+		padding: 0 20px;
+		p {
+			font-size: 16px;
+		}
+	}
+}

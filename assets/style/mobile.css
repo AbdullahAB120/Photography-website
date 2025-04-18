@@ -1,0 +1,57 @@
+header {
+  padding: 10px 0;
+}
+
+header .logo {
+  text-align: center;
+}
+
+header .menu ul {
+  text-align: center;
+}
+
+header .menu ul li {
+  margin: 2px;
+}
+
+header .menu ul li a {
+  font-size: 12px;
+  padding: 5px;
+}
+
+.intro {
+  height: 80vh;
+  padding: 30px 20px;
+}
+
+.intro .intro-details {
+  padding: 0;
+}
+
+.intro .intro-details h1 {
+  font-size: 60px;
+}
+
+.intro .intro-image {
+  padding: 30px;
+}
+
+.intro .intro-image img {
+  width: 100%;
+}
+
+.about, .service, .album, .feedback, .contact {
+  padding: 50px 20px;
+}
+
+.about .about-details p {
+  padding: 30px 10px;
+}
+
+.contact .contact-information {
+  padding: 0 20px;
+}
+
+.contact .contact-information p {
+  font-size: 16px;
+}
